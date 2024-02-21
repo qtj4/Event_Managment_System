@@ -4,7 +4,6 @@ Welcome to the documentation for the Event Ticketing System project. This docume
 
 ## Aim of this project
 The aim of the Event Ticketing System project is to provide a comprehensive solution for managing ticket sales and event attendance. The system is designed to streamline the process of organizing events, selling tickets, and ensuring a smooth experience for both event organizers and attendees.
-## How to use the system
 
 
 ## Functionality
